@@ -1,0 +1,89 @@
+/*untuk navbar*/
+.navbar-bitbit{
+    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    height: 80px;
+    margin:0;
+    padding: 0;
+}
+.navbar-brand-bitbit{
+    width: 49px;
+    height: 25px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #548611;
+}
+
+/*untuk page Home*/
+.pppl-home-title{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #6b8a3c;
+}
+.pppl-home{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.checked {
+  color:  #ffdd57;
+}
+.nama-produk, .deskripsi{
+    color:  #548611;
+}
+.harga{
+    margin-top: 20px;
+    color: #db940f;
+}
+.alamat{
+    margin-top: 15px;
+    margin-bottom: 10px;  
+    color: #707070; 
+}
+.rating{
+    margin-bottom: 10px;  
+}
+
+/*untuk footer*/
+.footer-style{
+    width: 1519px;
+    height: 270px;
+    background-color: #fafafa;
+}
+
+.bagian-footer-style{
+    margin-top: 20px;
+}
+
+.title-footer,.pppl-sidebar-title {
+    width: 144px;
+    height: 28px;
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #548611;
+}
+
+.bagian-title-footer {
+    color: #548611;
+    width: 117px;
+    height: 23px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+}
