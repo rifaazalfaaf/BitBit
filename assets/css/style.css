@@ -1,25 +1,3 @@
-/*untuk navbar*/
-.navbar-bitbit{
-    box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.16);
-    background-color: #ffffff;
-    height: 80px;
-    margin:0;
-    padding: 0;
-}
-.navbar-brand-bitbit{
-    width: 49px;
-    height: 25px;
-    font-family: Poppins;
-    font-size: 18px;
-    font-weight: bold;
-    font-stretch: normal;
-    font-style: normal;
-    line-height: 1.5;
-    letter-spacing: normal;
-    text-align: left;
-    color: #548611;
-}
-
 /*untuk page Home*/
 .pppl-home-title{
     margin-top: 30px;
@@ -36,35 +14,60 @@
 .nama-produk, .deskripsi{
     color:  #548611;
 }
-.harga{
-    margin-top: 20px;
-    color: #db940f;
+.background-jumbotron{
+    background-color: #a7e421;
 }
+.title-jumbotron{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #456c0a;
+}
+
+/*digunakan seluruh*/
+.bibit-card{
+    background-color: #ffffff;
+}
+
+/*untuk rating*/
+.rating{
+    margin-bottom: 10px;  
+}
+.nilai_rating{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+}
+
+/*untuk alamat*/
 .alamat{
     margin-top: 15px;
     margin-bottom: 10px;  
     color: #707070; 
 }
-.rating{
-    margin-bottom: 10px;  
-}
+
 
 /*untuk footer*/
 .footer-style{
     width: 1519px;
-    height: 270px;
-    background-color: #fafafa;
-}
-
-.bagian-footer-style{
-    margin-top: 20px;
+    height: 220px;
+    background-color: #e4e4e4;
 }
 
 .title-footer,.pppl-sidebar-title {
-    width: 144px;
-    height: 28px;
     font-family: Poppins;
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 500;
     font-stretch: normal;
     font-style: normal;
@@ -76,14 +79,24 @@
 
 .bagian-title-footer {
     color: #548611;
-    width: 117px;
-    height: 23px;
     font-family: Poppins;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.56;
     letter-spacing: normal;
     text-align: left;
+}
+.logo-pembayaran{
+    width: 64.2px;
+    height: 20px;
+}
+.logo-pembayaran1{
+    width: 60px;
+    height: 40px;
+}
+.logo-pengiriman{
+    width: 49.5px;
+    height: 23px;
 }

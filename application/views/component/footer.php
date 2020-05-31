@@ -1,43 +1,38 @@
-<!-- <div class="container-fluid"> -->
-<footer class="footer-style">
-	<div class="container">
-		<div class="row">
-			<div class="bagian-footer-style col-md-4">
-				<div class="title-footer">Produk mitra</div>
-				<div class="bagian-title-footer">
-					<a href=""><p>Tanaman Hias Gantung</p></a>
-					<a href=""><p>Tanaman Hias Bunga</p></a>
-					<a href=""><p>Tanaman Hias Buah</p></a>
-					<a href=""><p>Tanaman Hias Air</p></a>
-				</div>
-			</div>
-			
-			<div class="bagian-footer-style col-md-3">
-				<div class="title-footer">Layanan Kami</div>
-				<div class="bagian-title-footer">
-					<a href=""><p>Tukang Kebun</p></a>
-					<a href=""><p>Arsitektur Taman</p></a>
-				</div>
-			</div>
-			
-			<div class="bagian-footer-style col-md-3">
-				<div class="title-footer">Pembayaran</div>
-				<div class="bagian-title-footer">
-					<a href=""><p>Logo ovo</p></a>
-					<a href=""><p>Logo alfa</p></a>
-					<a href=""><p>Logo indo</p></a>
-				</div>
-			</div>
-			
-			<div class="bagian-footer-style col-md-2">
-				<div class="title-footer">Pengiriman</div>
-				<div class="bagian-title-footer">
-					<a href=""><p>Logo JNT</p></a>
-					<a href=""><p>Logo JNE</p></a>
-			</div>
-			</div>
-			
-		</div>
-	</div>
+<div class="container-fluid p-0">
+<footer class="footer-style" style="width: 1519px;height: 220px;background-color: #e4e4e4;">
+ <div class="container ">
+  <div class="row">
+   <table class="mt-3">
+    <thead>
+     <tr>
+      <th class="title-footer" style="width: 500px;height: 50px;">Produk mitra</th>
+      <th class="title-footer" style="width: 400px">Layanan Kami</th>
+      <th class="title-footer" style="width: 400px">Pembayaran</th>
+      <th class="title-footer" style="width: 100px">Pengiriman</th>
+     </tr>
+    </thead>
+    <tbody>
+     <tr>
+      <td class="bagian-title-footer">Tanaman Hias Gantung</td>
+      <td class="bagian-title-footer">Tukang Kebun</td>
+      <td class="bagian-title-footer"><img class="logo-pembayaran" src="{{asset('img/ovo.png')}}" alt=""><img class="logo-pembayaran" src="{{asset('img/layer1.png')}}" alt=""></td>
+      <td class="bagian-title-footer"><img class="logo-pengiriman" src="{{asset('img/jnt.png')}}" alt=""><img class="logo-pengiriman" src="{{asset('img/jne.png')}}" alt=""></td>
+     </tr>
+     <tr>
+      <td class="bagian-title-footer">Tanaman Hias Bunga</td>
+      <td class="bagian-title-footer">Arsitektur Taman</td>
+      <td class="bagian-title-footer"><img class="logo-pembayaran1" src="{{asset('img/indoo.png')}}" alt=""></td>
+     </tr>
+     <tr>
+      <td class="bagian-title-footer">Tanaman Hias Buah</td>
+     </tr>
+     <tr>
+      <td class="bagian-title-footer">Tanaman Hias Air</td>
+     </tr>
+    </tbody>
+   </table>
+
+   
+  </div>
+ </div>
 </footer>
-<!-- </div> -->
