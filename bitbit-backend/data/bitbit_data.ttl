@@ -1,0 +1,349 @@
+# Projek    :   BitBit
+# Anggota   :   Agnes Hata        	(140810170011)
+#				Karimah A.			(140810170027)
+#               Rifaa' Zalfaa'      (140810170031) 
+# Kelas     :   A
+@prefix cl: <http://bitbit.com/ns/courselist#> .
+@prefix id: <http://bitbit.com/ns/data#> .
+
+id:P001
+	cl:name     	"Tanaman Hias Gantung Teplant Variegata" ;
+    cl:harga      	"Rp 25.000" ;
+    cl:tempat       "Kab. Bogor" ;
+    cl:rating       "0" ;
+    cl:jumlah       "0" ;
+    cl:link			"https://www.tokopedia.com/ibadgarden/tanaman-hias-gantung-silver-hair-dichondra-ampel-silver-hair-p-30cm" .
+
+id:P002
+	cl:name     	"Tanaman Hias Gantung Silver Hair Dichondra Ampel Silver Hair. P.30cm" ;
+    cl:harga      	"Rp 35.000" ;
+    cl:tempat       "Kab. Bandung Barat" ;
+    cl:rating       "4.5" ;
+    cl:jumlah       "51" ; 
+    cl:link			"https://www.tokopedia.com/warungtaman/tanaman-hias-gantung-teplant-variegata" .
+
+id:P003
+	cl:name     "Tanaman Tomat Cherry" ;
+    cl:harga      	"Rp 40.000" ;
+    cl:tempat       "Kota Administrasi Jakarta Timur" ;
+    cl:rating       "5" ;
+    cl:jumlah       "3" ; 
+    cl:link			"https://www.tokopedia.com/uniquestoreus/tanaman-tomat-ceri-cherry" .
+
+id:P004
+	cl:name     "Pohon Zaitun / Tanaman Buah Zaitun" ;
+    cl:harga      	"Rp 150.000" ;
+    cl:tempat       "Kab. Bogor" ;
+    cl:rating       "0" ;
+    cl:jumlah       "0" ; 
+    cl:link			"https://www.tokopedia.com/pembibit-tanaman/pohon-zaitun-tanaman-buah-zaitun" .
+
+id:P005
+	cl:name     "Tanaman Hias Bunga Kemuning" ;
+    cl:harga      	"Rp 10.000" ;
+    cl:tempat       "Kab. Bogor" ;
+    cl:rating       "4.8" ;
+    cl:jumlah       "395" ; 
+    cl:link			"https://www.tokopedia.com/warung-tanaman/tanaman-hias-bunga-kemuning" .
+
+id:P006
+	cl:name     "Ttanaman Hias Wijaya Kusuma Bunga Pink" ;
+    cl:harga      	"Rp 15.000" ;
+    cl:tempat       "Kab. Bogor" ;
+    cl:rating       "4.5" ;
+    cl:jumlah       "179" ; 
+    cl:link			"https://www.tokopedia.com/probitstore/tanaman-hias-wijaya-kusuma-bunga-pink-pohon-wijaya-kusuma" .
+
+id:P007
+	cl:name     "Tanaman Hias Lili Air Hujan Bunga Putih" ;
+    cl:harga      	"Rp 6.000" ;
+    cl:tempat       "Kab. Bogor" ;
+    cl:rating       "0" ;
+    cl:jumlah       "0" ; 
+    cl:link			"https://www.tokopedia.com/hariflora/tanaman-hias-lili-air-hujan-bunga-putih" .
+
+id:P008
+	cl:name     "Tanaman Hias Air Untuk Indoor Syngonium Pink" ;
+    cl:harga      	"Rp 25.000" ;
+    cl:tempat       "Kab. Bogor" ;
+    cl:rating       "5" ;
+    cl:jumlah       "35" ; 
+    cl:link			"https://www.tokopedia.com/benihmuda/tanaman-hias-air-untuk-indoor-syngonium-pink" .
+
+id:P009
+	cl:name     "Bibit Bunga Teratai Ungu Siap Tanam (Bukan Benih)" ;
+    cl:harga      	"Rp 10.000" ;
+    cl:tempat       "Jakarta Barat, Cengkareng" ;
+    cl:rating       "4.8" ;
+    cl:jumlah       "395" ; 
+    cl:link			"https://www.tokopedia.com/potmefarm/benih-bunga-matahari-gajah-potme-farm" .
+
+id:P010
+	cl:name     "Benih Bunga Matahari Gajah (Potme Farm)" ;
+    cl:harga      	"Rp 40.000" ;
+    cl:tempat       "Kota Batu" ;
+    cl:rating       "4.5" ;
+    cl:jumlah       "26" ; 
+    cl:link			"https://www.tokopedia.com/rubyflorist/bibit-bunga-teratai-ungu-siap-tanam-bukan-benih".
+
+id:P011
+	cl:name     "Sekop taman mini untuk gali tanah,media tanaman dan kebun mini" ;
+    cl:harga      	"Rp9.000" ;
+    cl:tempat       "KOTA TANGERANG" ;
+    cl:rating       "4.8" ;
+    cl:jumlah       "637" ; 
+    cl:link			"https://shopee.co.id/Sekop-taman-mini-untuk-gali-tanah-media-tanaman-dan-kebun-mini-i.44240287.874085975".
+
+id:P012
+	cl:name     "sekop garpu cangkul mini isi 3 pcs untuk menanam benih bibit tanaman alat berkebun garden tool tools" ;
+    cl:harga      	"Rp16.000" ;
+    cl:tempat       "KOTA SEMARANG" ;
+    cl:rating       "4.6" ;
+    cl:jumlah       "554" ; 
+    cl:link			"https://shopee.co.id/sekop-garpu-cangkul-mini-isi-3-pcs-untuk-menanam-benih-bibit-tanaman-alat-berkebun-garden-tool-tools-i.34640423.3512255431".
+
+id:P013
+	cl:name     "pupuk khusus untuk BUNGA 15-18-15+(S-P) 500gr" ;
+    cl:harga      	"Rp15.000" ;
+    cl:tempat       "KOTA TANGERANG" ;
+    cl:rating       "4.8" ;
+    cl:jumlah       "336" ; 
+    cl:link			"https://www.tokopedia.com/pilarpot/pupuk-khusus-untuk-bunga-15-18-15-s-p-500gr".
+
+id:P014
+	cl:name     "Tanah untuk tanaman MEDIA TANAM PAK TANI -siap pakai(gojek only)" ;
+    cl:harga      	"Rp15.000" ;
+    cl:tempat       "KOTA TANGERANG" ;
+    cl:rating       "4.9" ;
+    cl:jumlah       "635" ; 
+    cl:link			" https://shopee.co.id/Tanah-untuk-tanaman-MEDIA-TANAM-PAK-TANI--siap-pakai-gojek-only--i.44240287.1034179069?gclid=CjwKCAjw5cL2BRASEiwAENqAPlto9UMn-u4HrVpq5oCli0ROeYGTKtdLMaWxPLcsGcFgmSFxoPfPZBoCvcwQAvD_BwEkhusus-untuk-bunga-15-18-15-s-p-500gr".
+
+id:P015
+	cl:name     "media tanam 3in1 repacking 2 kg - 2017" ;
+    cl:harga      	"Rp7.000" ;
+    cl:tempat       "KOTA TANGERANG" ;
+    cl:rating       "4.9" ;
+    cl:jumlah       "1.4RB" ; 
+    cl:link			"https://shopee.co.id/media-tanam-3in1-repacking-2-kg-2017-i.8079332.2474377882".
+
+id:P016
+	cl:name     "Insektisida Pembasmi Hama Kutu Putih CURACRON 500EC-100ml" ;
+    cl:harga      	"Rp30.000" ;
+    cl:tempat       "KOTA TANGERANG" ;
+    cl:rating       "5.0" ;
+    cl:jumlah       "30" ; 
+    cl:link			"https://shopee.co.id/Insektisida-Pembasmi-Hama-Kutu-Putih-CURACRON-500EC-100ml-i.55283455.1337053199?gclid=CjwKCAjw5cL2BRASEiwAENqAPuM3iOuzDlJuDVMPJhznAOASLYossb5gxVM_koA90ebngTQK1ZzDFRoCS1kQAvD_BwE".
+
+id:P017
+	cl:name     "Cyperkiller 25 WP dari Korea Basmi Semua Serangga" ;
+    cl:harga      	"Rp32.000" ;
+    cl:tempat       "KOTA BEKASI" ;
+    cl:rating       "4.7" ;
+    cl:jumlah       "244" ; 
+    cl:link			" https://shopee.co.id/Cyperkiller-25-WP-dari-Korea-Basmi-Semua-Serangga-i.3086193.82769641".
+
+id:P018
+	cl:name     "Pot Bunga NO 20 CM HITAM" ;
+    cl:harga      	"Rp2.300" ;
+    cl:tempat       "KAB. WONOGIRI" ;
+    cl:rating       "4.8" ;
+    cl:jumlah       "191" ; 
+    cl:link			" https://shopee.co.id/Pot-Bunga-NO-20-CM-HITAM-i.40798349.789772739?gclid=CjwKCAjw5cL2BRASEiwAENqAPvHYFJFvVZGRF62wJyJJwJxBJupiVAlhLlUledP_ZpXV1qIZBTSxKhoCr20QAvD_BwE".
+
+id:P019
+	cl:name     " Pot tawon 10 - pot tawon 12 - pot murah - pot bunga - pot taman - pot hias" ;
+    cl:harga      	"Rp2.800 - 3.500" ;
+    cl:tempat       "KOTA MALANG" ;
+    cl:rating       "4.9" ;
+    cl:jumlah       "42" ; 
+    cl:link			"https://shopee.co.id/Pot-tawon-10---pot-tawon-12---pot-murah---pot-bunga---pot-taman---pot-hias-i.109750227.1849905288?gclid=CjwKCAjw5cL2BRASEiwAENqAPnO83idfg0woJRR9rCkBoiJwyAV_ejeaB4_mEtqlNi17bJe5WXrBtBoC2XAQAvD_BwE".
+
+id:P020
+	cl:name     "GROSIR POT BUNGA PLASTIK 20 CM HITAM / POT TANAMAN 20 CM HITAM" ;
+    cl:harga      	"Rp2.088" ;
+    cl:tempat       "KOTA SURABAYA" ;
+    cl:rating       "5.0" ;
+    cl:jumlah       "1.1RB" ; 
+    cl:link			"https://shopee.co.id/GROSIR-POT-BUNGA-PLASTIK-20-CM-HITAM-POT-TANAMAN-20-CM-HITAM-i.15741097.7531612971".
+
+
+id:J001
+	cl:name     	"Andrew Pratamanigrat" ;
+    cl:tempat       "Jakarta, Indonesia" ;
+    cl:rating       "5" ;
+    cl:jumlah       "8" ;
+    cl:title		"Arsitektur Taman".
+
+id:J002
+	cl:name     	"Ni Laksmi Karang" ;
+    cl:tempat       "Bali" ;
+    cl:rating       "5" ;
+    cl:jumlah       "2" ;
+    cl:title		"Arsitektur Taman" .
+
+id:J003
+	cl:name     	"Stephanus Gilbert Adi" ;
+    cl:tempat       "Bandung, Jawa Barat" ;
+    cl:rating       "4.8" ;
+    cl:jumlah       "10" ;
+    cl:title		"Arsitektur Taman" .
+
+id:J004
+	cl:name     	"Dono Subiono" ;
+    cl:tempat       "Surabaya, Jawa Timur" ;
+    cl:rating       "4.5" ;
+    cl:jumlah       "2" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J005
+	cl:name     	"Abigail Hadiantomo" ;
+    cl:tempat       "Jakarta, Indonesia" ;
+    cl:rating       "4.5" ;
+    cl:jumlah       "9" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J006
+	cl:name     	"Reynald Pakpahan" ;
+    cl:tempat       "Medan, Sumatera Utara" ;
+    cl:rating       "5" ;
+    cl:jumlah       "5" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J006
+	cl:name     	"Wiliam Hans" ;
+    cl:tempat       "Jakarta, Indonesia" ;
+    cl:rating       "4.5" ;
+    cl:jumlah       "8" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J008
+	cl:name     	"Renata Disti" ;
+    cl:tempat       "Depok, Jawa Barat" ;
+    cl:rating       "5" ;
+    cl:jumlah       "3" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J009
+	cl:name     	"Gloria Suci Ramadani" ;
+    cl:tempat       "Jakarta, Indonesia" ;
+    cl:rating       "4.4" ;
+    cl:jumlah       "4" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J010
+	cl:name     	"Wiliam Koesoema Adiningrat" ;
+    cl:tempat       "Bogor Jawa Barat" ;
+    cl:rating       "5" ;
+    cl:jumlah       "6" ; 
+    cl:title		"Arsitektur Taman".
+
+id:J011
+	cl:name     	"Budiana" ;
+    cl:tempat       "KOTA GARUT" ;
+    cl:rating       "4.9" ;
+    cl:jumlah       "6" ; 
+    cl:title		"Tukang Kebun".
+
+id:J011
+	cl:name     	"Heri Santosa" ;
+    cl:tempat       "KAB. BANDUNG" ;
+    cl:rating       "5" ;
+    cl:jumlah       "10" ; 
+    cl:title		"Tukang Kebun".
+
+id:J013
+	cl:name     	"Cahyanto Siregar" ;
+    cl:tempat       "JAKARTA" ;
+    cl:rating       "5" ;
+    cl:jumlah       "10" ; 
+    cl:title		"Tukang Kebun".
+
+id:J014
+	cl:name     	"Sunarjo" ;
+    cl:tempat       "JAKARTA" ;
+    cl:rating       "5" ;
+    cl:jumlah       "7" ; 
+    cl:title		"Tukang Kebun".
+
+id:J015
+	cl:name     	"Sandi Liana" ;
+    cl:tempat       " KOTA BANDUNG" ;
+    cl:rating       "4.9" ;
+    cl:jumlah       "11" ; 
+    cl:title		"Tukang Kebun".
+
+id:J016
+	cl:name     	"Yoga Setiana" ;
+    cl:tempat       "KAB. BANDUNG" ;
+    cl:rating       "5" ;
+    cl:jumlah       "10" ; 
+    cl:title		"Tukang Kebun".
+
+
+id:J017
+	cl:name     	"Burhanudin" ;
+    cl:tempat       "BEKASI" ;
+    cl:rating       "5" ;
+    cl:jumlah       "6" ; 
+    cl:title		"Tukang Kebun".
+
+id:J017
+	cl:name     	"Asep Saepudin" ;
+    cl:tempat       "Bogor Jawa Barat" ;
+    cl:rating       "5" ;
+    cl:jumlah       "4" ; 
+    cl:title		"Tukang Kebun".
+
+id:J019
+	cl:name     	"Renata" ;
+    cl:tempat       "DEPOK" ;
+    cl:rating       "5" ;
+    cl:jumlah       "6" ; 
+    cl:title		"Tukang Kebun".
+
+id:J020
+	cl:name     	"Sutisna" ;
+    cl:tempat       "KAB. BANDUNG" ;
+    cl:rating       "5" ;
+    cl:jumlah       "9" ; 
+    cl:title		"Tukang Kebun".
+
+id:A001
+    cl:judul      "Membuat Formula Media Tanam Bromelia Agar Tumbuh Optimal" ;
+    cl:link       "https://www.pertanianku.com/membuat-formula-media-tanam-bromelia-agar-tumbuh-optimal/" ; .
+
+id:A002
+    cl:judul      "Membuat Media Tanam Adenium Agar Tumbuh Optimal" ;
+    cl:link       "https://www.pertanianku.com/membuat-media-tanam-adenium-agar-tumbuh-optimal/" ; .
+
+id:A003
+    cl:judul      "Lirik Khasiat Bunga Melati Menjadi Obat Herbal" ;
+    cl:link       "https://www.pertanianku.com/lirik-khasiat-bunga-melati-menjadi-obat-herbal/" ; .
+
+id:A004
+    cl:judul      "Manfaat Bunga Matahari Sebagai Obat Herbal" ;
+    cl:link       "https://www.pertanianku.com/manfaat-bunga-matahari-sebagai-obat-herbal/" ; .
+
+id:A005
+    cl:judul      "Formula Media Tanam untuk Tanaman Hias Euphorbia" ;
+    cl:link       "https://www.pertanianku.com/formula-media-tanam-untuk-tanaman-hias-euphorbia/" ; .
+
+id:A006
+    cl:judul      "Teknik Mengecilkan Daun pada Pohon Bonsai" ;
+    cl:link       "https://www.pertanianku.com/teknik-mengecilkan-daun-pada-pohon-bonsai/" ; .
+
+id:A007
+    cl:judul      "Membuat Media Tanam Kaktus yang Ideal Sesuai dengan Umur Tanaman" ;
+    cl:link       "https://www.pertanianku.com/membuat-media-tanam-kaktus-yang-ideal-sesuai-dengan-umur-tanaman/" ; .
+
+id:A008
+    cl:judul      "Media Tanam yang Tepat untuk Tanaman Hias Nepenthes" ;
+    cl:link       "https://www.pertanianku.com/media-tanam-yang-tepat-untuk-tanaman-hias-nepenthes/" ; .
+
+id:A009
+    cl:judul      "Macam-macam Bentuk Bonsai Tunggul" ;
+    cl:link       "https://www.pertanianku.com/macam-macam-bentuk-bonsai-tunggul/" ; .
+
+id:A010
+    cl:judul      "Media Tanam Anggrek yang Tepat" ;
+    cl:link       "https://www.pertanianku.com/media-tanam-anggrek-yang-tepat/" ; .
