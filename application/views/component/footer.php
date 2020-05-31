@@ -15,13 +15,13 @@
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Gantung</td>
       <td class="bagian-title-footer">Tukang Kebun</td>
-      <td class="bagian-title-footer"><img class="logo-pembayaran" src="{{asset('img/ovo.png')}}" alt=""><img class="logo-pembayaran" src="{{asset('img/layer1.png')}}" alt=""></td>
-      <td class="bagian-title-footer"><img class="logo-pengiriman" src="{{asset('img/jnt.png')}}" alt=""><img class="logo-pengiriman" src="{{asset('img/jne.png')}}" alt=""></td>
+      <td class="bagian-title-footer"><img class="logo-pembayaran" src="assets/img/ovo.png" alt=""><img class="logo-pembayaran" src="assets/img/layer1.png" alt=""></td>
+      <td class="bagian-title-footer"><img class="logo-pengiriman" src="assets/img/jnt.png" alt=""><img class="logo-pengiriman" src="assets/img/jne.png" alt=""></td>
      </tr>
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Bunga</td>
       <td class="bagian-title-footer">Arsitektur Taman</td>
-      <td class="bagian-title-footer"><img class="logo-pembayaran1" src="{{asset('img/indoo.png')}}" alt=""></td>
+      <td class="bagian-title-footer"><img class="logo-pembayaran1" src="assets/img/indoo.png" alt=""></td>
      </tr>
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Buah</td>

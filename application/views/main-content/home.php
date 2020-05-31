@@ -160,6 +160,91 @@
                 </div>
             </div>
 <!-- {{-- bagian arsitektur --}} -->
-            <div>
+<div>
                 <h2 class="pppl-home-title">Arsitektur Taman Terbaik</h2>
             </div>
+            <div class="card-produk">
+                <div class="row">
+                    <div class="col-md-4 col-sm-4">
+                        <a href="">
+                            <div class="card">
+                                <div class="container">
+                                    <img class="card-img-top" src="assets/img/tukangkebun.png" alt="Lidah mertua" style="width:100%; margin-top:10px;margin-bottom: 20px; "><br>
+                                    <span class="nama-produk">Sukiman Rivero</span><br>
+                                    <label class="alamat" for="alamat">Depok</label>
+                                    <div class="rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>(10)
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <a href="">
+                            <div class="card">
+                                <div class="container">
+                                    <img class="card-img-top" src="assets/img/tukangkebun.png" alt="Lidah mertua" style="width:100%; margin-top:10px;margin-bottom: 20px; "><br>
+                                    <span class="nama-produk">Sukiman Rivero</span><br>
+                                    <label class="alamat" for="alamat">Depok</label>
+                                     <div class="rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span> (10)
+                                    </div>
+                                </div>
+                            </div> 
+                        </a>
+                    </div>
+                    <div class="col-md-4 col-sm-4">
+                        <a href="">
+                            <div class="card">
+                                <div class="container">
+                                    <img class="card-img-top" src="assets/img/tukangkebun.png" alt="Lidah mertua" style="width:100%; margin-top:10px;margin-bottom: 20px; "><br>
+                                    <span class="nama-produk">Sukiman Rivero</span><br>
+                                    <label class="alamat" for="alamat">Depok</label>
+                                    <div class="rating">
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span>
+                                        <span class="fa fa-star checked"></span> (10)
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+<!-- {{-- bagian artikel --}} -->
+            <div>
+                <h2 class="pppl-home-title">Artikel Terbaik untuk Tanaman anda</h2>
+            </div>
+            <div class="card-produk">
+                <div class="row">
+                    <div class="col-md-6 col-sm-6">
+                        <a href=""><div class="card">
+                            <div class="container">
+                                <img class="card-img-top" src="assets/img/artikel.png" alt="Lidah mertua" style="width:100%; margin-top:10px;margin-bottom: 20px; "><br>
+                                <label class="deskripsi" for="deskripsi">8 Cara Merawat Tanaman Efektif supaya Nggak Cepat Layu</label>
+                            </div>
+                        </div></a>
+                    </div>
+                    <div class="col-md-6 col-sm-6">
+                        <a href=""><div class="card">
+                            <div class="container">
+                                <img class="card-img-top" src="assets/img/artikel.png" alt="Lidah mertua" style="width:100%; margin-top:10px;margin-bottom: 20px; "><br>
+                                <label class="deskripsi" for="deskripsi">8 Cara Merawat Tanaman Efektif supaya Nggak Cepat Layu</label>
+                            </div>
+                        </div></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div> 
+    </div>
