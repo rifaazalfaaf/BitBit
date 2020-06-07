@@ -75,7 +75,7 @@ router.get('/tanaman/:id', async (req,res) =>{
 
 router.get('/jasa', async (req, res) => {
     let listJasa = await getJasa(req.query);
-
+    
     // Format data agar bisa digunakan
     listJasa = listJasa.bindings.map(listJasa => formatJasa(listJasa));
 
@@ -111,7 +111,6 @@ router.get('/jasa/:id', async (req, res) => {
                         tn:jumlah    ?jumlah; 
               			tn:linkfoto    ?linkfoto.
                     FILTER contains(lcase(str(?title)), lcase(str("${param.title ? param.title : ''}")))
-                    FILTER contains(lcase(str(?name)), lcase(str("${param.title ? param.title : ''}")))
                 }`
             };
 
