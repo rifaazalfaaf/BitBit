@@ -1,8 +1,6 @@
 <div style="margin-top: 100px">
     <div class="container pppl-home" id=""> 
         <div class="col-md-12 col-sm-12">
-        
-        <div class="col-md-9">
     <!-- {{-- Bagian Produk --}} -->
             <div style="margin-bottom: 20px;">
                 <span class="pppl-search-title" style=" color: #6c757d;">catatan : cari dengan kata kunci arsitektur atau tukang untuk mencari jasa</span>

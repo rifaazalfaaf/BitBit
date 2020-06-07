@@ -5,10 +5,10 @@
     }
 </script>
 
-<div class="bitbit-navbar navbar navbar-expand-sm fixed-top navbar-bitbit" style="background: #ffffff;box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.16);">>
+<div class="bitbit-navbar navbar navbar-expand-sm fixed-top navbar-bitbit" style="background: #ffffff;box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.16);">
     <div class="container">
          <!-- Brand/logo -->
-        <a class="navbar-brand col-md-2" href="/"><img class="logo-bitbit mb-2" src="assets/img/logo.png" style="width: 80px;" alt=""></a>
+        <a class="navbar-brand col-md-2" href="/BitBit/bitbit-frontend/"><img class="logo-bitbit mb-2" src="assets/img/logo.png" style="width: 80px;" alt=""></a>
         
         
         <div class="input-group col-md-10 mb-3 p-0" style="margin-top: 10px;">

@@ -17,7 +17,7 @@ class Search extends CI_Controller {
   
   // Debug data
   // echo '<pre>';
-  // var_dump($data['matkul']);
+  // var_dump($data['jasa']);
   // echo '</pre>';
 
   $this->load->view('component/header.php');
