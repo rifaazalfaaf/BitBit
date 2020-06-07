@@ -14,7 +14,8 @@ id:P001
     tn:tempat       "Kab. Bogor" ;
     tn:rating       "0" ;
     tn:jumlah       "0" ;
-    tn:link			"https://www.tokopedia.com/ibadgarden/tanaman-hias-gantung-silver-hair-dichondra-ampel-silver-hair-p-30cm" .
+    tn:link         "https://www.tokopedia.com/warungtaman/tanaman-hias-gantung-teplant-variegata";
+    tn:linkfoto     "https://i.ibb.co/KqBX81N/tanaman-gantung-1.jpg" .
 
 id:P002
 	tn:name     	"Tanaman Hias Gantung Silver Hair Dichondra Ampel Silver Hair. P.30cm" ;
@@ -22,7 +23,8 @@ id:P002
     tn:tempat       "Kab. Bandung Barat" ;
     tn:rating       "4.5" ;
     tn:jumlah       "51" ; 
-    tn:link			"https://www.tokopedia.com/warungtaman/tanaman-hias-gantung-teplant-variegata" .
+    tn:link         "https://www.tokopedia.com/ibadgarden/tanaman-hias-gantung-silver-hair-dichondra-ampel-silver-hair-p-30cm" ;
+    tn:linkfoto     "https://i.ibb.co/Jz6dcrJ/tanaman-hias-gantung-2.jpg" .
 
 id:P003
 	tn:name         "Tanaman Tomat Cherry" ;
@@ -30,7 +32,9 @@ id:P003
     tn:tempat       "Kota Administrasi Jakarta Timur" ;
     tn:rating       "5" ;
     tn:jumlah       "3" ; 
-    tn:link			"https://www.tokopedia.com/uniquestoreus/tanaman-tomat-ceri-cherry" .
+    tn:link         "https://www.tokopedia.com/uniquestoreus/tanaman-tomat-ceri-cherry" ;
+    tn:linkfoto     "https://i.ibb.co/ydggVp5/tomat-ceri.jpg" .
+
 
 id:P004
 	tn:name         "Pohon Zaitun / Tanaman Buah Zaitun" ;
@@ -38,7 +42,8 @@ id:P004
     tn:tempat       "Kab. Bogor" ;
     tn:rating       "0" ;
     tn:jumlah       "0" ; 
-    tn:link			"https://www.tokopedia.com/pembibit-tanaman/pohon-zaitun-tanaman-buah-zaitun" .
+    tn:link         "https://www.tokopedia.com/pembibit-tanaman/pohon-zaitun-tanaman-buah-zaitun";
+    tn:linkfoto     "https://i.ibb.co/CwM5Drp/zaitun.jpg" .
 
 id:P005
 	tn:name         "Tanaman Hias Bunga Kemuning" ;
@@ -46,7 +51,8 @@ id:P005
     tn:tempat       "Kab. Bogor" ;
     tn:rating       "4.8" ;
     tn:jumlah       "395" ; 
-    tn:link			"https://www.tokopedia.com/warung-tanaman/tanaman-hias-bunga-kemuning" .
+    tn:link         "https://www.tokopedia.com/warung-tanaman/tanaman-hias-bunga-kemuning" ;
+    tn:linkfoto     "https://i.ibb.co/VBh9Btt/kemuning.jpg" .
 
 id:P006
 	tn:name         "Tanaman Hias Wijaya Kusuma Bunga Pink" ;
@@ -54,7 +60,8 @@ id:P006
     tn:tempat       "Kab. Bogor" ;
     tn:rating       "4.5" ;
     tn:jumlah       "179" ; 
-    tn:link			"https://www.tokopedia.com/probitstore/tanaman-hias-wijaya-kusuma-bunga-pink-pohon-wijaya-kusuma" .
+    tn:link         "https://www.tokopedia.com/probitstore/tanaman-hias-wijaya-kusuma-bunga-pink-pohon-wijaya-kusuma";
+    tn:linkfoto     "https://i.ibb.co/16zvg1B/wijaya.jpg" .
 
 id:P007
 	tn:name         "Tanaman Hias Lili Air Hujan Bunga Putih" ;
@@ -62,7 +69,8 @@ id:P007
     tn:tempat       "Kab. Bogor" ;
     tn:rating       "0" ;
     tn:jumlah       "0" ; 
-    tn:link			"https://www.tokopedia.com/hariflora/tanaman-hias-lili-air-hujan-bunga-putih" .
+    tn:link         "https://www.tokopedia.com/hariflora/tanaman-hias-lili-air-hujan-bunga-putih" ;
+    tn:linkfoto     "https://i.ibb.co/BjBpYVv/lili.jpg" .
 
 id:P008
 	tn:name         "Tanaman Hias Air Untuk Indoor Syngonium Pink" ;
@@ -70,23 +78,26 @@ id:P008
     tn:tempat       "Kab. Bogor" ;
     tn:rating       "5" ;
     tn:jumlah       "35" ; 
-    tn:link			"https://www.tokopedia.com/benihmuda/tanaman-hias-air-untuk-indoor-syngonium-pink" .
+    tn:link         "https://www.tokopedia.com/benihmuda/tanaman-hias-air-untuk-indoor-syngonium-pink" ;
+    tn:linkfoto     "https://i.ibb.co/Q9h8mNJ/Tanaman-Hias-Air-Untuk-Indoor-Syngonium-Pink.jpg" .
 
 id:P009
 	tn:name         "Bibit Bunga Teratai Ungu Siap Tanam (Bukan Benih)" ;
-    tn:harga      	"Rp 10.000" ;
-    tn:tempat       "Jakarta Barat, Cengkareng" ;
-    tn:rating       "4.8" ;
-    tn:jumlah       "395" ; 
-    tn:link			"https://www.tokopedia.com/potmefarm/benih-bunga-matahari-gajah-potme-farm" .
+    tn:harga        "Rp 40.000" ;
+    tn:tempat       "Kota Batu" ;
+    tn:rating       "4.5" ;
+    tn:jumlah       "27" ; 
+    tn:link         "https://www.tokopedia.com/rubyflorist/bibit-bunga-teratai-ungu-siap-tanam-bukan-benih" ;
+    tn:linkfoto     "https://i.ibb.co/vXfDbm0/Bibit-Bunga-Teratai-Ungu-Siap-Tanam-Bukan-Benih.jpg" .
 
 id:P010
 	tn:name         "Benih Bunga Matahari Gajah (Potme Farm)" ;
-    tn:harga      	"Rp 40.000" ;
-    tn:tempat       "Kota Batu" ;
-    tn:rating       "4.5" ;
-    tn:jumlah       "26" ; 
-    tn:link			"https://www.tokopedia.com/rubyflorist/bibit-bunga-teratai-ungu-siap-tanam-bukan-benih".
+    tn:harga        "Rp 22.000" ;
+    tn:tempat       "Kota Denpasar" ;
+    tn:rating       "5.0" ;
+    tn:jumlah       "13" ; 
+    tn:link         "https://www.tokopedia.com/potmefarm/benih-bunga-matahari-gajah-potme-farm";
+    tn:linkfoto     "https://i.ibb.co/yRN3d66/bibit-matahari.jpg" .
 
 id:P011
 	tn:name         "Sekop taman mini untuk gali tanah,media tanaman dan kebun mini" ;
@@ -94,7 +105,8 @@ id:P011
     tn:tempat       "KOTA TANGERANG" ;
     tn:rating       "4.8" ;
     tn:jumlah       "637" ; 
-    tn:link			"https://shopee.co.id/Sekop-taman-mini-untuk-gali-tanah-media-tanaman-dan-kebun-mini-i.44240287.874085975".
+    tn:link         "https://shopee.co.id/Sekop-taman-mini-untuk-gali-tanah-media-tanaman-dan-kebun-mini-i.44240287.874085975";
+    tn:linkfoto     "https://i.ibb.co/LrpGD1x/sekop-mini.jpg" .
 
 id:P012
 	tn:name         "sekop garpu cangkul mini isi 3 pcs untuk menanam benih bibit tanaman alat berkebun garden tool tools" ;
@@ -102,7 +114,8 @@ id:P012
     tn:tempat       "KOTA SEMARANG" ;
     tn:rating       "4.6" ;
     tn:jumlah       "554" ; 
-    tn:link			"https://shopee.co.id/sekop-garpu-cangkul-mini-isi-3-pcs-untuk-menanam-benih-bibit-tanaman-alat-berkebun-garden-tool-tools-i.34640423.3512255431".
+    tn:link         "https://shopee.co.id/sekop-garpu-cangkul-mini-isi-3-pcs-untuk-menanam-benih-bibit-tanaman-alat-berkebun-garden-tool-tools-i.34640423.3512255431";
+    tn:linkfoto     "https://i.ibb.co/QfW1SGS/sekop-garpu-cangkul-mini-isi-3-pcs-untuk-menanam-benih-bibit-tanaman-alat-berkebun-garden-tool-tools.jpg" .
 
 id:P013
 	tn:name         "pupuk khusus untuk BUNGA 15-18-15+(S-P) 500gr" ;
@@ -110,7 +123,8 @@ id:P013
     tn:tempat       "KOTA TANGERANG" ;
     tn:rating       "4.8" ;
     tn:jumlah       "336" ; 
-    tn:link			"https://www.tokopedia.com/pilarpot/pupuk-khusus-untuk-bunga-15-18-15-s-p-500gr".
+    tn:link         "https://www.tokopedia.com/pilarpot/pupuk-khusus-untuk-bunga-15-18-15-s-p-500gr";
+    tn:linkfoto     "https://i.ibb.co/yRPJ03M/pupuk-khusus-untuk-BUNGA-15-18-15-S-P-500gr.jpg" .
 
 id:P014
 	tn:name         "Tanah untuk tanaman MEDIA TANAM PAK TANI -siap pakai(gojek only)" ;
@@ -118,7 +132,8 @@ id:P014
     tn:tempat       "KOTA TANGERANG" ;
     tn:rating       "4.9" ;
     tn:jumlah       "635" ; 
-    tn:link			" https://shopee.co.id/Tanah-untuk-tanaman-MEDIA-TANAM-PAK-TANI--siap-pakai-gojek-only--i.44240287.1034179069?gclid=CjwKCAjw14cL2BRASEiwAENqAPlto9UMn-u4HrVpq5oCli0ROeYGTKtdLMaWxPLcsGcFgmSFxoPfPZBoCvcwQAvD_BwEkhusus-untuk-bunga-15-18-15-s-p-500gr".
+    tn:link         " https://shopee.co.id/Tanah-untuk-tanaman-MEDIA-TANAM-PAK-TANI--siap-pakai-gojek-only--i.44240287.1034179069?gclid=CjwKCAjw5cL2BRASEiwAENqAPlto9UMn-u4HrVpq5oCli0ROeYGTKtdLMaWxPLcsGcFgmSFxoPfPZBoCvcwQAvD_BwEkhusus-untuk-bunga-15-18-15-s-p-500gr";
+    tn:linkfoto     "https://i.ibb.co/Y77NjrZ/Tanah-untuk-tanaman-MEDIA-TANAM-PAK-TANI-siap-pakai-gojek-only.jpg" .
 
 id:P015
 	tn:name         "media tanam 3in1 repacking 2 kg - 2017" ;
@@ -126,7 +141,8 @@ id:P015
     tn:tempat       "KOTA TANGERANG" ;
     tn:rating       "4.9" ;
     tn:jumlah       "1.4RB" ; 
-    tn:link			"https://shopee.co.id/media-tanam-3in1-repacking-2-kg-2017-i.8079332.2474377882".
+    tn:link         "https://shopee.co.id/media-tanam-3in1-repacking-2-kg-2017-i.8079332.2474377882";
+    tn:linkfoto     "https://i.ibb.co/jG8NZrQ/media-tanam-3in1-repacking-2-kg-2017.jpg" .
 
 id:P016
 	tn:name         "Insektisida Pembasmi Hama Kutu Putih CURACRON 500EC-100ml" ;
@@ -134,7 +150,8 @@ id:P016
     tn:tempat       "KOTA TANGERANG" ;
     tn:rating       "5.0" ;
     tn:jumlah       "30" ; 
-    tn:link			"https://shopee.co.id/Insektisida-Pembasmi-Hama-Kutu-Putih-CURACRON-500EC-100ml-i.55283455.1337053199?gclid=CjwKCAjw5cL2BRASEiwAENqAPuM3iOuzDlJuDVMPJhznAOASLYossb5gxVM_koA90ebngTQK1ZzDFRoCS1kQAvD_BwE".
+    tn:link         "https://shopee.co.id/Insektisida-Pembasmi-Hama-Kutu-Putih-CURACRON-500EC-100ml-i.55283455.1337053199?gclid=CjwKCAjw5cL2BRASEiwAENqAPuM3iOuzDlJuDVMPJhznAOASLYossb5gxVM_koA90ebngTQK1ZzDFRoCS1kQAvD_BwE";
+    tn:linkfoto     "https://i.ibb.co/pjft6pP/Insektisida-Pembasmi-Hama-Kutu-Putih-CURACRON-500-EC-100ml.jpg" .
 
 id:P017
 	tn:name         "Cyperkiller 25 WP dari Korea Basmi Semua Serangga" ;
@@ -142,7 +159,8 @@ id:P017
     tn:tempat       "KOTA BEKASI" ;
     tn:rating       "4.7" ;
     tn:jumlah       "244" ; 
-    tn:link			" https://shopee.co.id/Cyperkiller-25-WP-dari-Korea-Basmi-Semua-Serangga-i.3086193.82769641".
+    tn:link         " https://shopee.co.id/Cyperkiller-25-WP-dari-Korea-Basmi-Semua-Serangga-i.3086193.82769641";
+    tn:linkfoto     "https://i.ibb.co/wNB7MDb/Cyperkiller-25-WP-dari-Korea-Basmi-Semua-Serangga.jpg" .
 
 id:P018
 	tn:name         "Pot Bunga NO 20 CM HITAM" ;
@@ -150,7 +168,8 @@ id:P018
     tn:tempat       "KAB. WONOGIRI" ;
     tn:rating       "4.8" ;
     tn:jumlah       "191" ; 
-    tn:link			" https://shopee.co.id/Pot-Bunga-NO-20-CM-HITAM-i.40798349.789772739?gclid=CjwKCAjw5cL2BRASEiwAENqAPvHYFJFvVZGRF62wJyJJwJxBJupiVAlhLlUledP_ZpXV1qIZBTSxKhoCr20QAvD_BwE".
+    tn:link         " https://shopee.co.id/Pot-Bunga-NO-20-CM-HITAM-i.40798349.789772739?gclid=CjwKCAjw5cL2BRASEiwAENqAPvHYFJFvVZGRF62wJyJJwJxBJupiVAlhLlUledP_ZpXV1qIZBTSxKhoCr20QAvD_BwE";
+    tn:linkfoto     "https://i.ibb.co/HB95yZY/Pot-Bunga-NO-20-CM-HITAM.jpg" .
 
 id:P019
 	tn:name         "Pot tawon 10 - pot tawon 12 - pot murah - pot bunga - pot taman - pot hias" ;
@@ -158,7 +177,8 @@ id:P019
     tn:tempat       "KOTA MALANG" ;
     tn:rating       "4.9" ;
     tn:jumlah       "42" ; 
-    tn:link			"https://shopee.co.id/Pot-tawon-10---pot-tawon-12---pot-murah---pot-bunga---pot-taman---pot-hias-i.109750227.1849905288?gclid=CjwKCAjw5cL2BRASEiwAENqAPnO83idfg0woJRR9rCkBoiJwyAV_ejeaB4_mEtqlNi17bJe5WXrBtBoC2XAQAvD_BwE".
+    tn:link         "https://shopee.co.id/Pot-tawon-10---pot-tawon-12---pot-murah---pot-bunga---pot-taman---pot-hias-i.109750227.1849905288?gclid=CjwKCAjw5cL2BRASEiwAENqAPnO83idfg0woJRR9rCkBoiJwyAV_ejeaB4_mEtqlNi17bJe5WXrBtBoC2XAQAvD_BwE";
+    tn:linkfoto     "https://i.ibb.co/vQnqW3w/Pot-tawon-10-pot-tawon-12-pot-murah-pot-bunga-pot-taman-pot-hias.jpg" .
 
 id:P020
 	tn:name         "GROSIR POT BUNGA PLASTIK 20 CM HITAM / POT TANAMAN 20 CM HITAM" ;
@@ -166,7 +186,8 @@ id:P020
     tn:tempat       "KOTA SURABAYA" ;
     tn:rating       "5.0" ;
     tn:jumlah       "1.1RB" ; 
-    tn:link			"https://shopee.co.id/GROSIR-POT-BUNGA-PLASTIK-20-CM-HITAM-POT-TANAMAN-20-CM-HITAM-i.15741097.7531612971".
+    tn:link         "https://shopee.co.id/GROSIR-POT-BUNGA-PLASTIK-20-CM-HITAM-POT-TANAMAN-20-CM-HITAM-i.15741097.7531612971";
+    tn:linkfoto     "https://i.ibb.co/mBmmbqM/grosir-pot-bunga.jpg" .
 
 
 id:J001
@@ -174,56 +195,64 @@ id:J001
     js:tempat       "Jakarta, Indonesia" ;
     js:rating       "5" ;
     js:jumlah       "8" ;
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J002
 	js:name     	"Ni Laksmi Karang" ;
     js:tempat       "Bali" ;
     js:rating       "5" ;
     js:jumlah       "2" ;
-    js:title		"Arsitektur Taman" .
+    js:title		"Arsitektur Taman" ;
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J003
 	js:name     	"Stephanus Gilbert Adi" ;
     js:tempat       "Bandung, Jawa Barat" ;
     js:rating       "4.8" ;
     js:jumlah       "10" ;
-    js:title		"Arsitektur Taman" .
+    js:title		"Arsitektur Taman" ;
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J004
 	js:name     	"Dono Subiono" ;
     js:tempat       "Surabaya, Jawa Timur" ;
     js:rating       "4.5" ;
     js:jumlah       "2" ; 
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J005
 	js:name     	"Abigail Hadiantomo" ;
     js:tempat       "Jakarta, Indonesia" ;
     js:rating       "4.5" ;
     js:jumlah       "9" ; 
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J006
 	js:name     	"Reynald Pakpahan" ;
     js:tempat       "Medan, Sumatera Utara" ;
     js:rating       "5" ;
     js:jumlah       "5" ; 
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
-id:J006
+id:J007
 	js:name     	"Wiliam Hans" ;
     js:tempat       "Jakarta, Indonesia" ;
     js:rating       "4.5" ;
     js:jumlah       "8" ; 
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J008
 	js:name     	"Renata Disti" ;
     js:tempat       "Depok, Jawa Barat" ;
     js:rating       "5" ;
     js:jumlah       "3" ; 
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J009
 	js:name     	"Gloria Suci Ramadani" ;
@@ -237,75 +266,85 @@ id:J010
     js:tempat       "Bogor Jawa Barat" ;
     js:rating       "5" ;
     js:jumlah       "6" ; 
-    js:title		"Arsitektur Taman".
+    js:title		"Arsitektur Taman";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J011
 	js:name     	"Budiana" ;
     js:tempat       "KOTA GARUT" ;
     js:rating       "4.9" ;
     js:jumlah       "6" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
-id:J011
+id:J012
 	js:name     	"Heri Santosa" ;
     js:tempat       "KAB. BANDUNG" ;
     js:rating       "5" ;
     js:jumlah       "10" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun"
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J013
 	js:name     	"Cahyanto Siregar" ;
     js:tempat       "JAKARTA" ;
     js:rating       "5" ;
     js:jumlah       "10" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J014
 	js:name     	"Sunarjo" ;
     js:tempat       "JAKARTA" ;
     js:rating       "5" ;
     js:jumlah       "7" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J015
 	js:name     	"Sandi Liana" ;
     js:tempat       " KOTA BANDUNG" ;
     js:rating       "4.9" ;
     js:jumlah       "11" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J016
 	js:name     	"Yoga Setiana" ;
     js:tempat       "KAB. BANDUNG" ;
     js:rating       "5" ;
     js:jumlah       "10" ; 
-    js:title		"Tukang Kebun".
-
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J017
 	js:name     	"Burhanudin" ;
     js:tempat       "BEKASI" ;
     js:rating       "5" ;
     js:jumlah       "6" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
-id:J017
+id:J018
 	js:name     	"Asep Saepudin" ;
     js:tempat       "Bogor Jawa Barat" ;
     js:rating       "5" ;
     js:jumlah       "4" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J019
 	js:name     	"Renata" ;
     js:tempat       "DEPOK" ;
     js:rating       "5" ;
     js:jumlah       "6" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J020
 	js:name     	"Sutisna" ;
     js:tempat       "KAB. BANDUNG" ;
     js:rating       "5" ;
     js:jumlah       "9" ; 
-    js:title		"Tukang Kebun".
+    js:title		"Tukang Kebun";
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
