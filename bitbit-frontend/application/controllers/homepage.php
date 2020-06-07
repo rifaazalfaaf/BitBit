@@ -15,6 +15,7 @@ class Homepage extends CI_Controller {
  public function index()
  {
   $data['tanaman'] = json_decode($this->curl->simple_get($this->API.'/tanaman'));
+  $data['jasa'] = json_decode($this->curl->simple_get($this->API.'/jasa'));
   // Debug data
   // echo '<pre>';
   // var_dump($data['tanaman']);
@@ -22,7 +23,7 @@ class Homepage extends CI_Controller {
 
   $this->load->view('component/header.php');
   $this->load->view('component/navbar.php');
-  $this->load->view('main-content/home.php');
+  $this->load->view('main-content/home.php',$data);
   $this->load->view('component/footer.php');
  }
 }
