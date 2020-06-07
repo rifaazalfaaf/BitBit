@@ -1,5 +1,5 @@
 {
-  "name": "cari-kursus-backend",
+  "name": "bitbit-backend",
   "version": "1.0.0",
   "description": "A NodeJS backend combined with SPARQL for a web library application",
   "main": "main.js",
