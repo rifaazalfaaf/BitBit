@@ -3,6 +3,7 @@ const cors = require('cors');
 const express = require('express');
 const routes = require('./routes');
 const log = require('morgan')('dev');
+require('dotenv').config();
 
 // server config variables
 const config = {
