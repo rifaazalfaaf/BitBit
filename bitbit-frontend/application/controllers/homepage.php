@@ -6,9 +6,7 @@ class Homepage extends CI_Controller {
  function __construct(){
   parent::__construct();
      $this->API="http://localhost:9000/api";
-     $this->load->library('session');
      $this->load->library('curl');
-     $this->load->helper('form');
      $this->load->helper('url');
  }
 
