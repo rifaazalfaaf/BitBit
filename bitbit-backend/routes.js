@@ -31,7 +31,8 @@ router.get('/tanaman/:id', async (req,res) =>{
         const queryData = {
             query:
             `PREFIX tn: <http://bitbit.com/ns/tanaman#>
-            SELECT ?c ?name ?harga ?tempat ?rating ?jumlah ?link
+      		
+      		SELECT ?c ?name ?harga ?tempat ?rating ?jumlah ?link ?linkfoto
             WHERE
             {
                 ?c    tn:name    ?name ;
@@ -39,7 +40,8 @@ router.get('/tanaman/:id', async (req,res) =>{
                     tn:tempat    ?tempat ;
                     tn:rating    ?rating ;
                     tn:jumlah    ?jumlah ; 
-                    tn:link  ?link . 
+                    tn:link  ?link ; 
+              		tn:linkfoto  ?linkfoto . 
                 FILTER contains(lcase(str(?name)), lcase(str("${param.name ? param.name : ''}")))
             }`
         };
@@ -66,7 +68,8 @@ router.get('/tanaman/:id', async (req,res) =>{
             "tempat": tanaman.tempat.value,
             "rating": tanaman.rating.value,
             "jumlah": tanaman.jumlah.value,
-            "link": tanaman.link.value
+            "link": tanaman.link.value,
+    		"linkfoto": tanaman.linkfoto.value
         }
     }
 
@@ -98,15 +101,17 @@ router.get('/jasa/:id', async (req, res) => {
         const queryData = {
             query:
                 `PREFIX tn: <http://bitbit.com/ns/jasa#>
-                SELECT ?c ?name ?title ?tempat ?rating ?jumlah ?link
+      			SELECT ?c ?name ?title ?tempat ?rating ?jumlah ?linkfoto 
                 WHERE
                 {
                     ?c    tn:name    ?name ;
                         tn:title    ?title ;
                         tn:tempat    ?tempat ;
                         tn:rating    ?rating ;
-                        tn:jumlah    ?jumlah. 
+                        tn:jumlah    ?jumlah; 
+              			tn:linkfoto    ?linkfoto.
                     FILTER contains(lcase(str(?title)), lcase(str("${param.title ? param.title : ''}")))
+                    FILTER contains(lcase(str(?name)), lcase(str("${param.title ? param.title : ''}")))
                 }`
             };
 
@@ -131,7 +136,8 @@ router.get('/jasa/:id', async (req, res) => {
             "title": jasa.title.value,
             "tempat": jasa.tempat.value,
             "rating": jasa.rating.value,
-            "jumlah": jasa.jumlah.value
+            "jumlah": jasa.jumlah.value,
+    		"linkfoto": jasa.linkfoto.value
         }
     }
 module.exports = router;
