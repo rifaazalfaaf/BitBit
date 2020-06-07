@@ -28,6 +28,12 @@
     text-align: left;
     color: #456c0a;
 }
+.center-cropped {
+  width: 100px;
+  height: 100px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
 
 /*digunakan seluruh*/
 .bibit-card{
@@ -37,17 +43,18 @@
 /*untuk rating*/
 .rating{
     margin-bottom: 10px;  
+
 }
 .nilai_rating{
     font-family: Poppins;
-    font-size: 14px;
+    font-size: 20px;
     font-weight: normal;
     font-stretch: normal;
     font-style: normal;
     line-height: 1.5;
     letter-spacing: normal;
     text-align: left;
-    color: #707070;
+    color: #ffa737;
 }
 
 /*untuk alamat*/
