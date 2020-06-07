@@ -7,24 +7,24 @@
      <tr>
       <th class="title-footer" style="width: 500px;height: 50px;">Produk mitra</th>
       <th class="title-footer" style="width: 400px">Layanan Kami</th>
-      <th class="title-footer" style="width: 400px">Pembayaran</th>
-      <th class="title-footer" style="width: 100px">Pengiriman</th>
+      <th class="title-footer" style="width: 400px">About</th>
      </tr>
     </thead>
     <tbody>
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Gantung</td>
       <td class="bagian-title-footer">Tukang Kebun</td>
-      <td class="bagian-title-footer"><img class="logo-pembayaran" src="assets/img/ovo.png" alt=""><img class="logo-pembayaran" src="assets/img/layer1.png" alt=""></td>
-      <td class="bagian-title-footer"><img class="logo-pengiriman" src="assets/img/jnt.png" alt=""><img class="logo-pengiriman" src="assets/img/jne.png" alt=""></td>
+      <td class="bagian-title-footer">Rifaa' Zalfaa'(140810170031)</td>
      </tr>
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Bunga</td>
       <td class="bagian-title-footer">Arsitektur Taman</td>
-      <td class="bagian-title-footer"><img class="logo-pembayaran1" src="assets/img/indoo.png" alt=""></td>
+      <td class="bagian-title-footer">Karimah Azzuhdu T.M (140810170027)</td>
      </tr>
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Buah</td>
+      <td></td>
+      <td class="bagian-title-footer">Agnes Hata (140810170011)</td>
      </tr>
      <tr>
       <td class="bagian-title-footer">Tanaman Hias Air</td>
