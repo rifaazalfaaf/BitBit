@@ -15,7 +15,7 @@
             <input id="search-value" type="text" onkeyup="changeLink(this.value)" class="form-control" style="color: #6b8a3c" placeholder="Cari produk atau jasa disini...">
                 <div class="input-group-append" id="myDIV">
                     <a id="search-button" class="btn border border-left-0" style="background: #ffffff;" href="">
-                        <i class="fa fa-search" style="color: #66990c"></i>
+                        <i class="fa fa-search mt-1" style="color: #66990c"></i>
                     </a>
                 </div>
         </div>

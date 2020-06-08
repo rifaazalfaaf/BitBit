@@ -13,7 +13,7 @@
             <div class="card-produk">
                 <div class="row">
                     <?php for ($i=0; $i < 4; $i++) :?>
-                        <div class="col-md-3 col-sm-3">
+                        <div class="col-md-3 col-6 col-sm-6">
                             <a href="<?php echo $tanaman[$i]->link ?>"  target="_blank">
                                 <div class="card">
                                     <div class="container">
@@ -36,7 +36,7 @@
             <div class="card-produk">
                 <div class="row">
                     <?php for ($i=0; $i < 4; $i++) :?>
-                        <div class="col-md-3 col-sm-3">
+                        <div class="col-md-3 col-6 col-sm-6">
                             <div class="card">
                                 <div class="container">
                                     <img class="card-img-top" src="<?php echo $jasa[$i]->linkfoto ?>" alt="Tukang Kebun" style="width:100%; margin-top:10px;margin-bottom: 20px;width: 200px;height: 200px;background-position: center;background-repeat: no-repeat;"><br>
