@@ -290,7 +290,7 @@ id:J013
     js:rating       "5" ;
     js:jumlah       "10" ; 
     js:title        "Tukang Kebun";
-    js:linkfoto     "https://i.ibb.co/mBmmbqM/grosir-pot-bunga.jpg" .
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J014
     js:name         "Sunarjo" ;
@@ -306,7 +306,7 @@ id:J015
     js:rating       "4.9" ;
     js:jumlah       "11" ; 
     js:title        "Tukang Kebun";
-    js:linkfoto     "https://i.ibb.co/mBmmbqM/grosir-pot-bunga.jpg" .
+    js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J016
     js:name         "Yoga Setiana" ;
