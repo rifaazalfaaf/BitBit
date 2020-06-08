@@ -1,4 +1,4 @@
-<div style="margin-top: 100px">
+<div style="margin-top: 100px; min-height: 450px;">
     <div class="container pppl-home" id=""> 
         <div class="col-md-12 col-sm-12">
     <!-- {{-- Bagian Produk --}} -->
@@ -30,7 +30,7 @@
 
     <!-- {{-- Bagian Jasa --}} -->
         <div>
-            <h2 class="pppl-home-title">Hasil pencarian untuk tukang kebun</h2>
+            <h2 class="pppl-home-title">Hasil pencarian untuk jasa</h2>
         </div>
             <div class="card-produk">
                 <div class="row">
