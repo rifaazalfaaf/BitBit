@@ -10,7 +10,7 @@
 id:P001
     tn:name         "Tanaman Hias Gantung Teplant Variegata" ;
     tn:harga        "Rp 25.000" ;
-    tn:tempat       "Kab. Bogor" ;
+    tn:tempat       id:address05 ;
     tn:rating       "0" ;
     tn:jumlah       "0" ;
     tn:link         "https://www.tokopedia.com/warungtaman/tanaman-hias-gantung-teplant-variegata";
@@ -19,7 +19,7 @@ id:P001
 id:P002
     tn:name         "Tanaman Hias Gantung Silver Hair Dichondra Ampel Silver Hair. P.30cm" ;
     tn:harga        "Rp 35.000" ;
-    tn:tempat       "Kab. Bandung Barat" ;
+    tn:tempat       id:address06 ;
     tn:rating       "4.5" ;
     tn:jumlah       "51" ; 
     tn:link         "https://www.tokopedia.com/ibadgarden/tanaman-hias-gantung-silver-hair-dichondra-ampel-silver-hair-p-30cm" ;
@@ -28,7 +28,7 @@ id:P002
 id:P003
     tn:name     "Tanaman Tomat Cherry" ;
     tn:harga        "Rp 40.000" ;
-    tn:tempat       "Kota Administrasi Jakarta Timur" ;
+    tn:tempat       id:address07;
     tn:rating       "5" ;
     tn:jumlah       "3" ; 
     tn:link         "https://www.tokopedia.com/uniquestoreus/tanaman-tomat-ceri-cherry" ;
@@ -37,7 +37,7 @@ id:P003
 id:P004
     tn:name     "Pohon Zaitun / Tanaman Buah Zaitun" ;
     tn:harga        "Rp 150.000" ;
-    tn:tempat       "Kab. Bogor" ;
+    tn:tempat       id:address05 ;
     tn:rating       "0" ;
     tn:jumlah       "0" ; 
     tn:link         "https://www.tokopedia.com/pembibit-tanaman/pohon-zaitun-tanaman-buah-zaitun";
@@ -46,7 +46,7 @@ id:P004
 id:P005
     tn:name     "Tanaman Hias Bunga Kemuning" ;
     tn:harga        "Rp 10.000" ;
-    tn:tempat       "Kab. Bogor" ;
+    tn:tempat       id:address05 ;
     tn:rating       "4.8" ;
     tn:jumlah       "395" ; 
     tn:link         "https://www.tokopedia.com/warung-tanaman/tanaman-hias-bunga-kemuning" ;
@@ -55,7 +55,7 @@ id:P005
 id:P006
     tn:name     "Tanaman Hias Wijaya Kusuma Bunga Pink" ;
     tn:harga        "Rp 15.000" ;
-    tn:tempat       "Kab. Bogor" ;
+    tn:tempat       id:address05 ;
     tn:rating       "4.5" ;
     tn:jumlah       "179" ; 
     tn:link         "https://www.tokopedia.com/probitstore/tanaman-hias-wijaya-kusuma-bunga-pink-pohon-wijaya-kusuma";
@@ -64,7 +64,7 @@ id:P006
 id:P007
     tn:name     "Tanaman Hias Lili Air Hujan Bunga Putih" ;
     tn:harga        "Rp 6.000" ;
-    tn:tempat       "Kab. Bogor" ;
+    tn:tempat       id:address05 ;
     tn:rating       "0" ;
     tn:jumlah       "0" ; 
     tn:link         "https://www.tokopedia.com/hariflora/tanaman-hias-lili-air-hujan-bunga-putih" ;
@@ -73,7 +73,7 @@ id:P007
 id:P008
     tn:name     "Tanaman Hias Air Untuk Indoor Syngonium Pink" ;
     tn:harga        "Rp 25.000" ;
-    tn:tempat       "Kab. Bogor" ;
+    tn:tempat       id:address05 ;
     tn:rating       "5" ;
     tn:jumlah       "35" ; 
     tn:link         "https://www.tokopedia.com/benihmuda/tanaman-hias-air-untuk-indoor-syngonium-pink" ;
@@ -82,7 +82,7 @@ id:P008
 id:P009
     tn:name     "Bibit Bunga Teratai Ungu Siap Tanam (Bukan Benih)" ;
     tn:harga        "Rp 40.000" ;
-    tn:tempat       "Kota Batu" ;
+    tn:tempat       id:address08 ;
     tn:rating       "4.5" ;
     tn:jumlah       "27" ; 
     tn:link         "https://www.tokopedia.com/rubyflorist/bibit-bunga-teratai-ungu-siap-tanam-bukan-benih" ;
@@ -91,7 +91,7 @@ id:P009
 id:P010
     tn:name     "Benih Bunga Matahari Gajah (Potme Farm)" ;
     tn:harga        "Rp 22.000" ;
-    tn:tempat       "Kota Denpasar" ;
+    tn:tempat       id:address09 ;
     tn:rating       "5.0" ;
     tn:jumlah       "13" ; 
     tn:link         "https://www.tokopedia.com/potmefarm/benih-bunga-matahari-gajah-potme-farm";
@@ -100,7 +100,7 @@ id:P010
 id:P011
     tn:name     "Sekop taman mini untuk gali tanah,media tanaman dan kebun mini" ;
     tn:harga        "Rp9.000" ;
-    tn:tempat       "KOTA TANGERANG" ;
+    tn:tempat       id:address10 ;
     tn:rating       "4.8" ;
     tn:jumlah       "637" ; 
     tn:link         "https://shopee.co.id/Sekop-taman-mini-untuk-gali-tanah-media-tanaman-dan-kebun-mini-i.44240287.874085975";
@@ -109,7 +109,7 @@ id:P011
 id:P012
     tn:name     "sekop garpu cangkul mini isi 3 pcs untuk menanam benih bibit tanaman alat berkebun garden tool tools" ;
     tn:harga        "Rp16.000" ;
-    tn:tempat       "KOTA SEMARANG" ;
+    tn:tempat       id:address11 ;
     tn:rating       "4.6" ;
     tn:jumlah       "554" ; 
     tn:link         "https://shopee.co.id/sekop-garpu-cangkul-mini-isi-3-pcs-untuk-menanam-benih-bibit-tanaman-alat-berkebun-garden-tool-tools-i.34640423.3512255431";
@@ -118,7 +118,7 @@ id:P012
 id:P013
     tn:name     "pupuk khusus untuk BUNGA 15-18-15+(S-P) 500gr" ;
     tn:harga        "Rp15.000" ;
-    tn:tempat       "KOTA TANGERANG" ;
+    tn:tempat       id:address10 ;
     tn:rating       "4.8" ;
     tn:jumlah       "336" ; 
     tn:link         "https://www.tokopedia.com/pilarpot/pupuk-khusus-untuk-bunga-15-18-15-s-p-500gr";
@@ -127,7 +127,7 @@ id:P013
 id:P014
     tn:name     "Tanah untuk tanaman MEDIA TANAM PAK TANI -siap pakai(gojek only)" ;
     tn:harga        "Rp15.000" ;
-    tn:tempat       "KOTA TANGERANG" ;
+    tn:tempat       id:address10 ;
     tn:rating       "4.9" ;
     tn:jumlah       "635" ; 
     tn:link         " https://shopee.co.id/Tanah-untuk-tanaman-MEDIA-TANAM-PAK-TANI--siap-pakai-gojek-only--i.44240287.1034179069?gclid=CjwKCAjw5cL2BRASEiwAENqAPlto9UMn-u4HrVpq5oCli0ROeYGTKtdLMaWxPLcsGcFgmSFxoPfPZBoCvcwQAvD_BwEkhusus-untuk-bunga-15-18-15-s-p-500gr";
@@ -136,7 +136,7 @@ id:P014
 id:P015
     tn:name     "media tanam 3in1 repacking 2 kg - 2017" ;
     tn:harga        "Rp7.000" ;
-    tn:tempat       "KOTA TANGERANG" ;
+    tn:tempat       id:address10 ;
     tn:rating       "4.9" ;
     tn:jumlah       "1.4RB" ; 
     tn:link         "https://shopee.co.id/media-tanam-3in1-repacking-2-kg-2017-i.8079332.2474377882";
@@ -145,7 +145,7 @@ id:P015
 id:P016
     tn:name     "Insektisida Pembasmi Hama Kutu Putih CURACRON 500EC-100ml" ;
     tn:harga        "Rp30.000" ;
-    tn:tempat       "KOTA TANGERANG" ;
+    tn:tempat       id:address10 ;
     tn:rating       "5.0" ;
     tn:jumlah       "30" ; 
     tn:link         "https://shopee.co.id/Insektisida-Pembasmi-Hama-Kutu-Putih-CURACRON-500EC-100ml-i.55283455.1337053199?gclid=CjwKCAjw5cL2BRASEiwAENqAPuM3iOuzDlJuDVMPJhznAOASLYossb5gxVM_koA90ebngTQK1ZzDFRoCS1kQAvD_BwE";
@@ -154,7 +154,7 @@ id:P016
 id:P017
     tn:name     "Cyperkiller 25 WP dari Korea Basmi Semua Serangga" ;
     tn:harga        "Rp32.000" ;
-    tn:tempat       "KOTA BEKASI" ;
+    tn:tempat       id:address01 ;
     tn:rating       "4.7" ;
     tn:jumlah       "244" ; 
     tn:link         " https://shopee.co.id/Cyperkiller-25-WP-dari-Korea-Basmi-Semua-Serangga-i.3086193.82769641";
@@ -163,8 +163,8 @@ id:P017
 id:P018
     tn:name     "Pot Bunga NO 20 CM HITAM" ;
     tn:harga        "Rp2.300" ;
-    tn:tempat       "KAB. WONOGIRI" ;
     tn:rating       "4.8" ;
+    tn:tempat       id:address04;
     tn:jumlah       "191" ; 
     tn:link         " https://shopee.co.id/Pot-Bunga-NO-20-CM-HITAM-i.40798349.789772739?gclid=CjwKCAjw5cL2BRASEiwAENqAPvHYFJFvVZGRF62wJyJJwJxBJupiVAlhLlUledP_ZpXV1qIZBTSxKhoCr20QAvD_BwE";
     tn:linkfoto     "https://i.ibb.co/HB95yZY/Pot-Bunga-NO-20-CM-HITAM.jpg" .
@@ -172,7 +172,7 @@ id:P018
 id:P019
     tn:name     "Pot tawon 10 - pot tawon 12 - pot murah - pot bunga - pot taman - pot hias" ;
     tn:harga        "Rp2.800 - 3.500" ;
-    tn:tempat       "KOTA MALANG" ;
+    tn:tempat       id:address03;
     tn:rating       "4.9" ;
     tn:jumlah       "42" ; 
     tn:link         "https://shopee.co.id/Pot-tawon-10---pot-tawon-12---pot-murah---pot-bunga---pot-taman---pot-hias-i.109750227.1849905288?gclid=CjwKCAjw5cL2BRASEiwAENqAPnO83idfg0woJRR9rCkBoiJwyAV_ejeaB4_mEtqlNi17bJe5WXrBtBoC2XAQAvD_BwE";
@@ -181,16 +181,37 @@ id:P019
 id:P020
     tn:name     "GROSIR POT BUNGA PLASTIK 20 CM HITAM / POT TANAMAN 20 CM HITAM" ;
     tn:harga        "Rp2.088" ;
-    tn:tempat       "KOTA SURABAYA" ;
+    tn:tempat       id:address02;
     tn:rating       "5.0" ;
     tn:jumlah       "1.1RB" ; 
     tn:link         "https://shopee.co.id/GROSIR-POT-BUNGA-PLASTIK-20-CM-HITAM-POT-TANAMAN-20-CM-HITAM-i.15741097.7531612971";
     tn:linkfoto     "https://i.ibb.co/mBmmbqM/grosir-pot-bunga.jpg" .
 
-
+id:address01
+    tn:address "KOTA BEKASI".
+id:address02
+    tn:address "KOTA SURABAYA".
+id:address03
+    tn:address "KOTA MALANG".
+id:address04
+    tn:address "KAB. WONOGIRI".
+id:address05
+    tn:address "KAB. BOGOR".
+id:address06
+    tn:address "KAB. BANDUNG BARAT".
+id:address07
+    tn:address "Kota Administrasi Jakarta Timur".
+id:address08
+    tn:address "Kota BATU".
+id:address09
+    tn:address "KOTA DENPASAR".
+id:address10
+    tn:address "KOTA TANGGERANG".
+id:address11
+    tn:address "KOTA SEMARANG".
 id:J001
     js:name         "Andrew Pratamanigrat" ;
-    js:tempat       "Jakarta, Indonesia" ;
+    js:tempat       id:address044 ;
     js:rating       "5" ;
     js:jumlah       "8" ;
     js:title        "Arsitektur Taman";
@@ -198,7 +219,7 @@ id:J001
 
 id:J002
     js:name         "Ni Laksmi Karang" ;
-    js:tempat       "Bali" ;
+    js:tempat       id:address088 ;
     js:rating       "5" ;
     js:jumlah       "2" ;
     js:title        "Arsitektur Taman" ;
@@ -206,7 +227,7 @@ id:J002
 
 id:J003
     js:name         "Stephanus Gilbert Adi" ;
-    js:tempat       "Bandung, Jawa Barat" ;
+    js:tempat       id:address033 ;
     js:rating       "4.8" ;
     js:jumlah       "10" ;
     js:title        "Arsitektur Taman" ;
@@ -214,7 +235,7 @@ id:J003
 
 id:J004
     js:name         "Dono Subiono" ;
-    js:tempat       "Surabaya, Jawa Timur" ;
+    js:tempat       id:address0100 ;
     js:rating       "4.5" ;
     js:jumlah       "2" ; 
     js:title        "Arsitektur Taman";
@@ -222,7 +243,7 @@ id:J004
 
 id:J005
     js:name         "Abigail Hadiantomo" ;
-    js:tempat       "Jakarta, Indonesia" ;
+    js:tempat       id:address044 ;
     js:rating       "4.5" ;
     js:jumlah       "9" ; 
     js:title        "Arsitektur Taman";
@@ -230,7 +251,7 @@ id:J005
 
 id:J006
     js:name         "Reynald Pakpahan" ;
-    js:tempat       "Medan, Sumatera Utara" ;
+    js:tempat       id:address077 ;
     js:rating       "5" ;
     js:jumlah       "5" ; 
     js:title        "Arsitektur Taman";
@@ -238,7 +259,7 @@ id:J006
 
 id:J007
     js:name         "Wiliam Hans" ;
-    js:tempat       "Jakarta, Indonesia" ;
+    js:tempat       id:address044 ;
     js:rating       "4.5" ;
     js:jumlah       "8" ; 
     js:title        "Arsitektur Taman";
@@ -246,7 +267,7 @@ id:J007
 
 id:J008
     js:name         "Renata Disti" ;
-    js:tempat       "Depok, Jawa Barat" ;
+    js:tempat       id:address099 ;
     js:rating       "5" ;
     js:jumlah       "3" ; 
     js:title        "Arsitektur Taman";
@@ -254,7 +275,7 @@ id:J008
 
 id:J009
     js:name         "Gloria Suci Ramadani" ;
-    js:tempat       "Jakarta, Indonesia" ;
+    js:tempat       id:address044 ;
     js:rating       "4.4" ;
     js:jumlah       "4" ; 
     js:title        "Arsitektur Taman";
@@ -262,7 +283,7 @@ id:J009
 
 id:J010
     js:name         "Wiliam Koesoema Adiningrat" ;
-    js:tempat       "Bogor Jawa Barat" ;
+    js:tempat       id:address055 ;
     js:rating       "5" ;
     js:jumlah       "6" ; 
     js:title        "Arsitektur Taman";
@@ -270,15 +291,15 @@ id:J010
 
 id:J011
     js:name         "Budiana" ;
-    js:tempat       "KOTA GARUT" ;
+    js:tempat       id:address066 ;
     js:rating       "4.9" ;
     js:jumlah       "6" ; 
-    js:title        "Tukang Kebun";
+    js:title        "Arsitektur Taman";
     js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
 
 id:J012
     js:name         "Heri Santosa" ;
-    js:tempat       "KAB. BANDUNG" ;
+    js:tempat       id:address022 ;
     js:rating       "5" ;
     js:jumlah       "10" ; 
     js:title        "Tukang Kebun";
@@ -286,7 +307,7 @@ id:J012
 
 id:J013
     js:name         "Cahyanto Siregar" ;
-    js:tempat       "JAKARTA" ;
+    js:tempat       id:address044 ;
     js:rating       "5" ;
     js:jumlah       "10" ; 
     js:title        "Tukang Kebun";
@@ -294,7 +315,7 @@ id:J013
 
 id:J014
     js:name         "Sunarjo" ;
-    js:tempat       "JAKARTA" ;
+    js:tempat       id:address044 ;
     js:rating       "5" ;
     js:jumlah       "7" ; 
     js:title        "Tukang Kebun";
@@ -302,7 +323,7 @@ id:J014
 
 id:J015
     js:name         "Sandi Liana" ;
-    js:tempat       " KOTA BANDUNG" ;
+    js:tempat       id:address033 ;
     js:rating       "4.9" ;
     js:jumlah       "11" ; 
     js:title        "Tukang Kebun";
@@ -310,7 +331,7 @@ id:J015
 
 id:J016
     js:name         "Yoga Setiana" ;
-    js:tempat       "KAB. BANDUNG" ;
+    js:tempat       id:address022 ;
     js:rating       "5" ;
     js:jumlah       "10" ; 
     js:title        "Tukang Kebun";
@@ -318,7 +339,7 @@ id:J016
 
 id:J017
     js:name         "Burhanudin" ;
-    js:tempat       "BEKASI" ;
+    js:tempat       id:address011 ;
     js:rating       "5" ;
     js:jumlah       "6" ; 
     js:title        "Tukang Kebun";
@@ -326,7 +347,7 @@ id:J017
 
 id:J018
     js:name         "Asep Saepudin" ;
-    js:tempat       "Bogor Jawa Barat" ;
+    js:tempat       id:address055 ;
     js:rating       "5" ;
     js:jumlah       "4" ; 
     js:title        "Tukang Kebun";
@@ -334,7 +355,7 @@ id:J018
 
 id:J019
     js:name         "Renata" ;
-    js:tempat       "DEPOK" ;
+    js:tempat       id:address099 ;
     js:rating       "5" ;
     js:jumlah       "6" ; 
     js:title        "Tukang Kebun";
@@ -342,8 +363,29 @@ id:J019
 
 id:J020
     js:name         "Sutisna" ;
-    js:tempat       "KAB. BANDUNG" ;
+    js:tempat       id:address022 ;
     js:rating       "5" ;
     js:jumlah       "9" ; 
     js:title        "Tukang Kebun";
     js:linkfoto     "https://i.ibb.co/sKtdNQC/profile-user-2x.png" .
+
+id:address011
+    js:address "KOTA BEKASI".
+id:address022
+    js:address "KAB. BANDUNG".
+id:address033
+    js:address "KOTA BANDUNG".
+id:address044
+    js:address "JAKARTA".
+id:address055
+    js:address "KAB. BOGOR".
+id:address066
+    js:address "KOTA GARUT".
+id:address077
+    js:address "MEDAN".
+id:address088
+    js:address "BALI".
+id:address099
+    js:address "KOTA DEPOK".
+id:address0100
+    js:address "KOTA SURABAYA".

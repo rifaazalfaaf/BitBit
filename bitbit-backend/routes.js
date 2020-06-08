@@ -5,7 +5,7 @@ const router = express.Router();
 
 router.get('/tanaman', async (req, res) => {
     let listTanaman = await getTanaman(req.query);
-
+    console.log(req.query);
     // Format data agar bisa digunakan
     listTanaman = listTanaman.bindings.map(listTanaman => formatTanaman(listTanaman));
 
@@ -31,19 +31,21 @@ router.get('/tanaman/:id', async (req,res) =>{
         const queryData = {
             query:
             `PREFIX tn: <http://bitbit.com/ns/tanaman#>
-      		
-      		SELECT ?c ?name ?harga ?tempat ?rating ?jumlah ?link ?linkfoto
+            
+            SELECT ?c ?name ?harga ?tempat ?rating ?jumlah ?link ?linkfoto
             WHERE
             {
-                ?c    tn:name    ?name ;
+              ?c    tn:name    ?name ;
                     tn:harga    ?harga ;
-                    tn:tempat    ?tempat ;
+                    tn:tempat    ?namaAlamat ;
                     tn:rating    ?rating ;
                     tn:jumlah    ?jumlah ; 
                     tn:link  ?link ; 
-              		tn:linkfoto  ?linkfoto . 
-                FILTER contains(lcase(str(?name)), lcase(str("${param.name ? param.name : ''}")))
-            }`
+                    tn:linkfoto  ?linkfoto . 
+              ?namaAlamat tn:address ?tempat .
+              FILTER contains(lcase(str(?name)), lcase(str("${param.name ? param.name : ''}")))
+            }
+        `
         };
 
         try {
@@ -75,7 +77,7 @@ router.get('/tanaman/:id', async (req,res) =>{
 
 router.get('/jasa', async (req, res) => {
     let listJasa = await getJasa(req.query);
-    
+    console.log(req.query);
     // Format data agar bisa digunakan
     listJasa = listJasa.bindings.map(listJasa => formatJasa(listJasa));
 
@@ -106,10 +108,11 @@ router.get('/jasa/:id', async (req, res) => {
                 {
                     ?c    tn:name    ?name ;
                         tn:title    ?title ;
-                        tn:tempat    ?tempat ;
+                        tn:tempat    ?namaAlamat ;
                         tn:rating    ?rating ;
                         tn:jumlah    ?jumlah; 
               			tn:linkfoto    ?linkfoto.
+                    ?namaAlamat tn:address ?tempat .
                     FILTER contains(lcase(str(?title)), lcase(str("${param.title ? param.title : ''}")))
                 }`
             };
